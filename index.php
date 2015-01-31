@@ -45,7 +45,7 @@
 
   <div class="feyrus-convas" >
       <div class="fi-arrows-out" id="full-screen"></div>
-        <?php require_once("register.php");?>
+        <?php require_once("create.php");?>
     </div>
   </body>
 </html>
